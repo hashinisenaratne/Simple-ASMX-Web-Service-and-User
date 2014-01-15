@@ -1,0 +1,5 @@
+F:\99x\Web Services\MathService\MathService\bin\MathService.dll
+F:\99x\Web Services\MathService\MathService\bin\MathService.pdb
+F:\99x\Web Services\MathService\MathService\obj\Debug\MathService.csprojResolveAssemblyReference.cache
+F:\99x\Web Services\MathService\MathService\obj\Debug\MathService.dll
+F:\99x\Web Services\MathService\MathService\obj\Debug\MathService.pdb

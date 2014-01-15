@@ -1,0 +1,6 @@
+F:\99x\Web Services\ASMX\MathUser\MathUser\bin\Debug\MathUser.exe.config
+F:\99x\Web Services\ASMX\MathUser\MathUser\bin\Debug\MathUser.exe
+F:\99x\Web Services\ASMX\MathUser\MathUser\bin\Debug\MathUser.pdb
+F:\99x\Web Services\ASMX\MathUser\MathUser\obj\Debug\MathUser.csprojResolveAssemblyReference.cache
+F:\99x\Web Services\ASMX\MathUser\MathUser\obj\Debug\MathUser.exe
+F:\99x\Web Services\ASMX\MathUser\MathUser\obj\Debug\MathUser.pdb
